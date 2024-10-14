@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+timm==0.4.12
+opencv-python
+Pillow
+torchvision
+werkzeug
